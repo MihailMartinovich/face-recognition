@@ -1,0 +1,22 @@
+{
+  "name": "face-recognition",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MihailMartinovich/face-recognition.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MihailMartinovich/face-recognition/issues"
+  },
+  "homepage": "https://github.com/MihailMartinovich/face-recognition#readme",
+  "dependencies": {
+    "node-webcam": "^0.8.0"
+  }
+}
